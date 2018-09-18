@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "isDone": false,
+      "p1": "Troy",
+      "p2": "Tom",
+      "drink": "Svedka"
+    }
+  ],
+  "time": {
+    "start": 1537221049811
+  }
+}
